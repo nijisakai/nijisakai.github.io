@@ -1,14 +1,8 @@
 ---
-layout: about
-title: 关于
-reward: false
+layout: page
+title: About
 ---
 
-### Minimalism
+This is an example page!
 
----
-
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
-
-[Minimalism]: https://github.com/showzeng/Minimalism
-[Jekyll]: https://jekyllrb.com/
+It's very similar to a `post` layout, with the only difference that the publish date is not shown!
